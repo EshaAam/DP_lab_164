@@ -1,10 +1,5 @@
 package org.example;
 
-import Facade_Pattern_Aggregator_class.NotificationAggregator;
-import Factory_class.SocialMediaFactory;
-import Interfaces.SocialMediaService;
-import Models.Notification;
-
 import java.util.List;
 
 public class Main {
